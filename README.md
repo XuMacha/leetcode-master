@@ -19,7 +19,7 @@
 
 * 求职 
     * [程序员应该如何写简历（附简历模板）](https://mp.weixin.qq.com/s/PkBpde0PV65dJjj9zZJYtg)
-    * [一线互联网公司技术面试的流程以及注意事项](https://mp.weixin.qq.com/s/1VMvQ_6HbVpEn85CNilTiw)
+    * [BAT级别技术面试流程和注意事项都在这里了](https://mp.weixin.qq.com/s/815qCyFGVIxwut9I_7PNFw)
 
 * 算法性能分析
     * [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/lYL9TSxLqCeFXIdjt4dcIw)
@@ -69,7 +69,6 @@
 
 * 双指针法 
     * [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
-    * [数组：977. 有序数组的平方]()
     * [字符串：这道题目，使用库函数一行代码搞定](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
     * [字符串：替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
     * [字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
@@ -121,8 +120,16 @@
     * [本周小结！（二叉树系列四）](https://mp.weixin.qq.com/s/CbdtOTP0N-HIP7DR203tSg)
     * [二叉树：搜索树的公共祖先问题](https://mp.weixin.qq.com/s/Ja9dVw2QhBcg_vV-1fkiCg)
     * [二叉树：搜索树中的插入操作](https://mp.weixin.qq.com/s/lwKkLQcfbCNX2W-5SOeZEA)
-
+    * [二叉树：搜索树中的删除操作](https://mp.weixin.qq.com/s/-p-Txvch1FFk3ygKLjPAKw)
+    * [二叉树：修剪一棵搜索树](https://mp.weixin.qq.com/s/QzmGfYUMUWGkbRj7-ozHoQ)
+    * [二叉树：构造一棵搜索树](https://mp.weixin.qq.com/s/sy3ygnouaZVJs8lhFgl9mw)
+    * [二叉树：搜索树转成累加树](https://mp.weixin.qq.com/s/hZtJh4T5lIGBarY-lZJf6Q)
+    * [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)
  
+* 回溯算法 
+    * [关于回溯算法，你该了解这些！](https://mp.weixin.qq.com/s/gjSgJbNbd1eAA5WkA-HeWw)
+    * [回溯算法：求组合问题！](https://mp.weixin.qq.com/s/OnBjbLzuipWz_u4QfmgcqQ)
+    * [回溯算法：组合问题再剪剪枝](https://mp.weixin.qq.com/s/Ri7spcJMUmph4c6XjPWXQA)
 
 （持续更新中....）
 
@@ -163,6 +170,7 @@
 * 循环不变量原则
     * [0035.搜索插入位置](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q) 
     * [0059.螺旋矩阵II](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
+    * [106.从中序与后序遍历序列构造二叉树&105. 从前序与中序遍历序列构造二叉树](https://mp.weixin.qq.com/s/7r66ap2s-shvVvlZxo59xg)
 
 * 字符串经典题目
     * [0344.反转字符串](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
@@ -178,12 +186,13 @@
     * [0015.三数之和](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
     * [0018.四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
     * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md) 
-    * [19.删除链表的倒数第N个节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/19.删除链表的倒数第N个节点) 
+    * [0019.删除链表的倒数第N个节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/19.删除链表的倒数第N个节点) 
     * [0206.翻转链表](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
     * [0142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
     * [0344.反转字符串](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
     * [剑指Offer05.替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg) 
     * [0151.翻转字符串里的单词](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
+    * [0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md)
 
 
 * 栈与队列经典题目
@@ -191,26 +200,59 @@
     * [0225.用队列实现栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0225.用队列实现栈.md)
     * [0020.有效的括号](https://github.com/youngyangyang04/leetcode/blob/master/problems/0020.有效的括号.md)
     * [1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md)
-    * [0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md)
+    * [0150.逆波兰表达式求值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0150.逆波兰表达式求值.md)
     * [0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md)
+    * 单调队列
+        * [0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md)
+    * 单调栈 
+        * [0739.每日温度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0739.每日温度.md) 
+        * [0042.接雨水](https://github.com/youngyangyang04/leetcode/blob/master/problems/0042.接雨水.md) 
+        * [0084.柱状图中最大的矩形](https://github.com/youngyangyang04/leetcode/blob/master/problems/0084.柱状图中最大的矩形.md)
 
 * 二叉树经典题目 
     * [0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md)
     * [0094.二叉树的中序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0094.二叉树的中序遍历.md)
     * [0145.二叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0145.二叉树的后序遍历.md)
+    * [0589.N叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0589.N叉树的前序遍历.md) 
+    * [0590.N叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0590.N叉树的后序遍历.md)
+
+
     * [0102.二叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0102.二叉树的层序遍历.md)
+    * [0107.二叉树的层次遍历II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0107.二叉树的层次遍历II.md)
+
     * [0199.二叉树的右视图](https://github.com/youngyangyang04/leetcode/blob/master/problems/0199.二叉树的右视图.md)
+    * [0637.二叉树的层平均值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0637.二叉树的层平均值.md)
+
     * [0226.翻转二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0226.翻转二叉树.md)
     * [0101.对称二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0101.对称二叉树.md)
+    * [0100.相同的树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0100.相同的树.md)
+
+    * [0572.另一个树的子树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0572.另一个树的子树.md)
+    * [0110.平衡二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0110.平衡二叉树.md)
     * [0104.二叉树的最大深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md)
     * [0111.二叉树的最小深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md)
     * [0222.完全二叉树的节点个数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0222.完全二叉树的节点个数.md)
+    * [0404.左叶子之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0404.左叶子之和.md) 
+    * [0513.找树左下角的值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0513.找树左下角的值.md) 
+    * [0112.路径总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0112.路径总和.md)
+    * [0113.路径总和II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0113.路径总和II.md) 
+    * [0257.二叉树的所有路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0257.二叉树的所有路径.md)
+    * [0236.二叉树的最近公共祖先](https://github.com/youngyangyang04/leetcode/blob/master/problems/0236.二叉树的最近公共祖先.md) 
+    * [0106.从中序与后序遍历序列构造二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0106.从中序与后序遍历序列构造二叉树.md)
+    * [0105.从前序与中序遍历序列构造二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0105.从前序与中序遍历序列构造二叉树.md)
     * [0654.最大二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0654.最大二叉树.md)
     * [0617.合并二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0617.合并二叉树.md)
     * [0700.二叉搜索树中的搜索](https://github.com/youngyangyang04/leetcode/blob/master/problems/0700.二叉搜索树中的搜索.md)
     * [0098.验证二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0098.验证二叉搜索树.md)
+    * [0530.二叉搜索树的最小绝对差](https://github.com/youngyangyang04/leetcode/blob/master/problems/0530.二叉搜索树的最小绝对差.md) 
+    * [0501.二叉搜索树中的众数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0501.二叉搜索树中的众数.md)
+    * [0235.二叉搜索树的最近公共祖先](https://github.com/youngyangyang04/leetcode/blob/master/problems/0235.二叉搜索树的最近公共祖先.md) 
     * [0701.二叉搜索树中的插入操作](https://github.com/youngyangyang04/leetcode/blob/master/problems/0701.二叉搜索树中的插入操作.md)
     * [0450.删除二叉搜索树中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0450.删除二叉搜索树中的节点.md)
+    * [0669.修剪二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0669.修剪二叉搜索树.md) 
+    * [0108.将有序数组转换为二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0108.将有序数组转换为二叉搜索树.md) 
+    * [0538.把二叉搜索树转换为累加树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0538.把二叉搜索树转换为累加树.md)
+    * [0968.监控二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0968.监控二叉树.md)
 
 * 回溯经典题目 
 
@@ -271,15 +313,17 @@
 |[0094.二叉树的中序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0094.二叉树的中序遍历.md) |树 |中等|**递归** **迭代/栈**|
 |[0098.验证二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0098.验证二叉搜索树.md) |树 |中等|**递归**|
 |[0100.相同的树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0100.相同的树.md) |树 |简单|**递归** |
-|[0101.对称二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0101.对称二叉树.md) |树 |简单|**递归** **迭代/队列/栈**|
+|[0101.对称二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0101.对称二叉树.md) |树 |简单|**递归** **迭代/队列/栈** 和100. 相同的树 相似|
 |[0102.二叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0102.二叉树的层序遍历.md) |树 |中等|**广度优先搜索/队列**|
 |[0104.二叉树的最大深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md) |树 |简单|**递归** **迭代/队列/BFS**|
-|[0105.从前序与中序遍历序列构造二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0105.从前序与中序遍历序列构造二叉树.md) |树 |中等|**递归**|
-|[0106.从中序与后序遍历序列构造二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0106.从中序与后序遍历序列构造二叉树.md) |树 |中等|**递归**|
+|[0105.从前序与中序遍历序列构造二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0105.从前序与中序遍历序列构造二叉树.md) |二叉树 |中等|**递归**|
+|[0106.从中序与后序遍历序列构造二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0106.从中序与后序遍历序列构造二叉树.md) |二叉树 |中等|**递归** 根据数组构造二叉树|
 |[0107.二叉树的层次遍历II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0107.二叉树的层次遍历II.md) |树 |简单|**广度优先搜索/队列/BFS**|
-|[0110.平衡二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0110.平衡二叉树.md) |树 |简单|**递归**|
-|[0111.二叉树的最小深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md) |树 |简单|**递归** **队列/BFS**|
-|[0112.路径总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0112.路径总和.md) |树 |简单|**深度优先搜索/递归** **回溯** **栈**|
+|[0108.将有序数组转换为二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0108.将有序数组转换为二叉搜索树.md) |二叉搜索树 |中等|**递归** **迭代** 通过递归函数返回值构造树|
+|[0110.平衡二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0110.平衡二叉树.md) |二叉树 |简单|**递归**|
+|[0111.二叉树的最小深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md) |二叉树 |简单|**递归** **队列/BFS**|
+|[0112.路径总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0112.路径总和.md) |二叉树树 |简单|**深度优先搜索/递归** **回溯** **栈** 思考递归函数什么时候需要返回值|
+|[0113.路径总和II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0113.路径总和II.md) |二叉树树 |简单|**深度优先搜索/递归** **回溯** **栈**|
 |[0116.填充每个节点的下一个右侧节点指针](https://github.com/youngyangyang04/leetcode/blob/master/problems/0116.填充每个节点的下一个右侧节点指针.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
 |[0117.填充每个节点的下一个右侧节点指针II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0117.填充每个节点的下一个右侧节点指针II.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
@@ -288,6 +332,7 @@
 |[0143.重排链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0143.重排链表.md) |链表 |中等|**快慢指针/双指针** 也可以用数组，双向队列模拟，考察链表综合操作的好题|
 |[0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md) |树 |中等|**递归** **迭代/栈**|
 |[0145.二叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0145.二叉树的后序遍历.md) |树 |困难|**递归** **迭代/栈**|
+|[0150.逆波兰表达式求值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0150.逆波兰表达式求值.md) |栈 |中等|**栈**|
 |[0151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0151.翻转字符串里的单词.md) |字符串 |中等|**模拟/双指针**|
 |[0155.最小栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0155.最小栈.md) |栈 |简单|**栈**|
 |[0199.二叉树的右视图](https://github.com/youngyangyang04/leetcode/blob/master/problems/0199.二叉树的右视图.md) |二叉树 |中等|**广度优先遍历/队列**|
@@ -303,11 +348,12 @@
 |[0226.翻转二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0226.翻转二叉树.md) |二叉树 |简单| **递归** **迭代**|
 |[0232.用栈实现队列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0232.用栈实现队列.md) | 栈 |简单| **栈** |
 |[0235.二叉搜索树的最近公共祖先](https://github.com/youngyangyang04/leetcode/blob/master/problems/0235.二叉搜索树的最近公共祖先.md) | 二叉搜索树 |简单| **递归** **迭代** |
-|[0236.二叉树的最近公共祖先](https://github.com/youngyangyang04/leetcode/blob/master/problems/0236.二叉树的最近公共祖先.md) | 二叉树 |中等| **递归/回溯** |
+|[0236.二叉树的最近公共祖先](https://github.com/youngyangyang04/leetcode/blob/master/problems/0236.二叉树的最近公共祖先.md) | 二叉树 |中等| **递归/回溯** 与其说是递归，不如说是回溯|
 |[0237.删除链表中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0237.删除链表中的节点.md) |链表 |简单| **原链表移除** **添加虚拟节点** 递归|
 |[0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md) |滑动窗口/队列 |困难| **单调队列**|
 |[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
 |[0257.二叉树的所有路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0257.二叉树的所有路径.md) |树 |简单| **递归/回溯**|
+|[0316.去除重复字母](https://github.com/youngyangyang04/leetcode/blob/master/problems/0316.去除重复字母.md) |贪心/字符串 |中等| **单调栈** 这道题目处理的情况比较多，属于单调栈中的难题|
 |[0332.重新安排行程](https://github.com/youngyangyang04/leetcode/blob/master/problems/0332.重新安排行程.md) |深度优先搜索/回溯 |中等| **深度优先搜索/回溯算法**|
 |[0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) |字符串 |简单| **双指针**|
 |[0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md) |哈希/堆/优先级队列 |中等| **哈希/优先级队列**|
@@ -323,31 +369,39 @@
 |[0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md) |字符创 |简单| **KMP**|
 |[0486.预测赢家](https://github.com/youngyangyang04/leetcode/blob/master/problems/0486.预测赢家.md) |动态规划 |中等| **递归** **记忆递归** **动态规划**|
 |[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法**|
+|[0496.下一个更大元素I](https://github.com/youngyangyang04/leetcode/blob/master/problems/0496.下一个更大元素I.md) |栈 |中等|**单调栈** 入门题目，但是两个数组还是有点绕的|
 |[0501.二叉搜索树中的众数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0501.二叉搜索树中的众数.md) |二叉树 |简单|**递归/中序遍历**|
 |[0513.找树左下角的值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0513.找树左下角的值.md) |二叉树 |中等|**递归** **迭代**|
 |[0515.在每个树行中找最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0515.在每个树行中找最大值.md) |二叉树 |简单|**广度优先搜索/队列**|
 |[0530.二叉搜索树的最小绝对差](https://github.com/youngyangyang04/leetcode/blob/master/problems/0530.二叉搜索树的最小绝对差.md) |二叉树搜索树 |简单|**递归** **迭代**|
-|[0538.把二叉搜索树转换为累加树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0538.把二叉搜索树转换为累加树.md) |二叉树 |简单|**递归** **迭代**|
+|[0538.把二叉搜索树转换为累加树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0538.把二叉搜索树转换为累加树.md) |二叉搜索树 |简单|**递归** **迭代**|
 |[0541.反转字符串II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0541.反转字符串II.md) |字符串 |简单| **模拟**|
 |[0559.N叉树的最大深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0559.N叉树的最大深度.md) |N叉树 |简单| **递归**|
 |[0572.另一个树的子树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0572.另一个树的子树.md) |二叉树 |简单| **递归**|
 |[0575.分糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0575.分糖果.md) |哈希表 |简单|**哈希**|
-|[0589.N叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0589.N叉树的前序遍历.md) |树 |简单|**递归** **栈/迭代**|
-|[0590.N叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0590.N叉树的后序遍历.md) |树 |简单|**递归** **栈/迭代**|
+|[0589.N叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0589.N叉树的前序遍历.md) |N叉树 |简单|**递归** **栈/迭代**|
+|[0590.N叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0590.N叉树的后序遍历.md) |N叉树 |简单|**递归** **栈/迭代**|
 |[0617.合并二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0617.合并二叉树.md) |树 |简单|**递归** **迭代**|
 |[0637.二叉树的层平均值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0637.二叉树的层平均值.md) |树 |简单|**广度优先搜索/队列**|
 |[0654.最大二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0654.最大二叉树.md) |树 |中等|**递归**|
 |[0685.冗余连接II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0685.冗余连接II.md) | 并查集/树/图 |困难|**并查集**|
 |[0669.修剪二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0669.修剪二叉搜索树.md) | 二叉搜索树/二叉树 |简单|**递归** **迭代**|
-|[0700.二叉搜索树中的搜索](https://github.com/youngyangyang04/leetcode/blob/master/problems/0700.二叉搜索树中的搜索.md) |树 |简单|**递归** **迭代**|
-|[0701.二叉搜索树中的插入操作](https://github.com/youngyangyang04/leetcode/blob/master/problems/0701.二叉搜索树中的插入操作.md) |树 |简单|**递归** **迭代**|
+|[0700.二叉搜索树中的搜索](https://github.com/youngyangyang04/leetcode/blob/master/problems/0700.二叉搜索树中的搜索.md) |二叉搜索树 |简单|**递归** **迭代**|
+|[0701.二叉搜索树中的插入操作](https://github.com/youngyangyang04/leetcode/blob/master/problems/0701.二叉搜索树中的插入操作.md) |二叉搜索树 |简单|**递归** **迭代**|
 |[0705.设计哈希集合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0705.设计哈希集合.md) |哈希表 |简单|**模拟**|
 |[0707.设计链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0707.设计链表.md) |链表 |中等|**模拟**|
+|[0763.划分字母区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0763.划分字母区间.md) |贪心 |中等|**双指针/贪心** 体现贪心尽可能多的思想|
+|[0739.每日温度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0739.每日温度.md) |栈 |中等|**单调栈** 适合单调栈入门|
 |[0841.钥匙和房间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0841.钥匙和房间.md) |孤岛问题 |中等|**bfs** **dfs**|
 |[0844.比较含退格的字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0844.比较含退格的字符串.md) |字符串 |简单|**栈** **双指针优化** 使用栈的思路但没有必要使用栈|
-|[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针**|
+|[0925.长按键入](https://github.com/youngyangyang04/leetcode/blob/master/problems/0925.长按键入.md) |字符串 |简单|**双指针/模拟** 是一道模拟类型的题目|
+|[0968.监控二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0968.监控二叉树.md) |二叉树 |困难|**贪心** 贪心与二叉树的结合|
+|[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针** 还是比较巧妙的|
 |[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
+|[1207.独一无二的出现次数](https://github.com/youngyangyang04/leetcode/blob/master/problems/1207.独一无二的出现次数.md) |哈希表 |简单|**哈希** 两层哈希|
+|[1365.有多少小于当前数字的数字](https://github.com/youngyangyang04/leetcode/blob/master/problems/1365.有多少小于当前数字的数字.md) |数组、哈希表 |简单|**哈希** 从后遍历的技巧很不错|
+|[1382.将二叉搜索树变平衡](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |二叉搜索树 |中等|**递归** **迭代** 98和108的组合题目|
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
 |[ 剑指Offer58-I.翻转单词顺序](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**模拟/双指针**|
 |[剑指Offer58-II.左旋转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer58-II.左旋转字符串.md) |字符串 |简单|**反转操作**|
